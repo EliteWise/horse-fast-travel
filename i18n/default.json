@@ -1,0 +1,11 @@
+{
+  "menu.title": "Travel by horse",
+  "menu.pierre": "Go to Pierre's General Store ({{cost}}g)",
+  "error.money": "You don't have enough gold for this trip.",
+  "error.horse": "Your horse is unavailable. Finish naming your horse, or wait until it is free.",
+  "error.host": "The host also needs Horse Fast Travel to bring your horse here.",
+  "error.arrival-blocked": "Something is blocking the arrival spot!",
+  "error.arrival": "Pierre's entrance could not be found on this map.",
+  "error.festival": "Horse travel is unavailable on festival days.",
+  "error.interrupted": "The trip was interrupted. Any fare paid has been refunded; your horse stays with you."
+}

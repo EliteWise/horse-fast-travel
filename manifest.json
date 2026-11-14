@@ -1,0 +1,10 @@
+{
+  "Name": "Horse Fast Travel",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "Ride your stable's horse to Pierre's with a short, visible native riding sequence.",
+  "UniqueID": "EliteWise.HorseFastTravel",
+  "EntryDll": "HorseFastTravel.dll",
+  "MinimumApiVersion": "4.3.2",
+  "UpdateKeys": []
+}

@@ -1,0 +1,11 @@
+{
+  "menu.title": "Voyager à cheval",
+  "menu.pierre": "Aller au magasin de Pierre ({{cost}} po)",
+  "error.money": "Vous n'avez pas assez d'argent pour ce trajet.",
+  "error.horse": "Votre cheval n'est pas disponible. Terminez de lui donner un nom ou attendez qu'il soit libre.",
+  "error.host": "L'hôte doit aussi installer Horse Fast Travel pour amener votre cheval ici.",
+  "error.arrival-blocked": "Quelque chose bloque l'arrivée !",
+  "error.arrival": "L'entrée du magasin de Pierre est introuvable sur cette carte.",
+  "error.festival": "Le voyage à cheval est indisponible les jours de festival.",
+  "error.interrupted": "Le trajet a été interrompu. Les frais éventuellement payés sont remboursés ; votre cheval reste avec vous."
+}
